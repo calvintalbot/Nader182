@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@Nader182](https://calvintalbot.com)
+- 👋 Hi, I’m [Calvin](https://calvintalbot.com)
 - 👀 I’m interested in "NextJS, ReactJS, Serverless, Performance Performance Performance"
 - 🌱 I’m currently learning "everything and anything"
 - 💞️ I’m working on https://interactlist.com
