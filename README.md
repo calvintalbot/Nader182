@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Calvin](https://calvintalbot.com)
-- 👀 I’m interested in "NextJS, ReactJS, Serverless, Performance Performance Performance"
+- 👀 I’m interested in "NextJS, ReactJS, Serverless and other non dev stuff like marketing and seo"
 - 🌱 I’m currently learning "everything and anything"
 - 💞️ I’m working on https://interactlist.com
 - 📫 You can reach me on [Twitter](https://twitter.com/calvintalbot)
