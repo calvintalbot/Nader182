@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [Calvin](https://calvintalbot.com)
 - 👀 I’m interested in "NextJS, ReactJS, Serverless and other non dev stuff like design, marketing and seo"
 - 🌱 I’m currently learning "everything and anything"
-- 💞️ I’m working on a checklist  [https://interactlist.com](https://interactlist.com) - create, style, share, and embed checklists ✨
+- 💞️ I’m working on [Interact List](https://interactlist.com) - Create, style, share, and embed checklists ✨
 - 📫 You can reach me on [Twitter](https://twitter.com/calvintalbot) or [LinkedIn](https://linkedin.com/in/calvintalbot)
 
 <!---
