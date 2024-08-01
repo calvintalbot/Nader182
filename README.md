@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [Calvin](https://calvintalbot.com)
 - 👀 I’m interested in "NextJS, ReactJS, Serverless and other non dev stuff like design, marketing and seo"
 - 🌱 I’m currently learning "everything and anything"
-- 💞️ I’m working on [https://interactlist.com](https://interactlist.com)
-- 📫 You can reach me on [Twitter](https://twitter.com/calvintalbot)
+- 💞️ I’m working on a checklist  [https://interactlist.com](https://interactlist.com) - create, style, share, and embed checklists ✨
+- 📫 You can reach me on [Twitter](https://twitter.com/calvintalbot) or [LinkedIn](https://linkedin.com/in/calvintalbot)
 
 <!---
 Nader182/Nader182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
